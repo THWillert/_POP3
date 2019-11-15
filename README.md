@@ -1,7 +1,7 @@
 # _POP3
 
 ## Übersicht
-AutoIt-UDF für das POP3-Protokoll, mit folgenden Funktionen:
+AutoIt-UDF für das POP3-Protokoll, basierend auf [_pop3](https://www.autoitscript.com/forum/topic/22838-_pop3-udf-according-to-the-1939-rfc/), mit folgenden Funktionen:
 
 | Funktion | Beschreibung |
 |--------|--------|
@@ -23,14 +23,11 @@ AutoIt-UDF für das POP3-Protokoll, mit folgenden Funktionen:
 AutoIt
 
 ### Installation
-
-
-### Anpassungen
-
 In das AutoIt Include Verzeichnis kopieren.
 
 ## Diskussion / Vorschläge
-@[autoit.de / _POP3.au3](https://autoit.de/thread/17028-pop3-udf-v1-03/?postID=340142)
+[autoit.de / _POP3.au3](https://autoit.de/thread/17028-pop3-udf-v1-03/?postID=340142)
+[autoitscript.com / _POP3.au3](https://www.autoitscript.com/forum/topic/125911-_pop3au3-v103/)
 
 ## ToDo
 
@@ -46,6 +43,3 @@ Thorsten Willert
 ## Lizenz
 Das ganze steht unter der [Apache 2.0](https://github.com/THWillert/HomeMatic_CSS/blob/master/LICENSE) Lizenz.
 .
-
-
-
