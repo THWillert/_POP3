@@ -19,10 +19,10 @@ AutoIt-UDF für das POP3-Protokoll, basierend auf [_pop3](https://www.autoitscri
 | _POP3Top|Retreives the mail headers, and the X first lines of the message|
 | _POP3Uidl |Same as _POP3List(), but with UIDL identifiers instead of message size. |
 
-### Voraussetzungen
+## Voraussetzungen
 AutoIt
 
-### Installation
+## Installation
 In das AutoIt Include Verzeichnis kopieren.
 
 ## Diskussion / Vorschläge
